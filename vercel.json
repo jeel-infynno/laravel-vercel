@@ -10,7 +10,7 @@
         }
     ],
     "public": true,
-    "outputDirectory": "public",
+    "outputDirectory": "dist",
     "env": {
         "APP_NAME": "Laravel Vercel",
         "APP_ENV": "production",
