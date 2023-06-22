@@ -9,6 +9,8 @@
             "dest": "/api/index.php"
         }
     ],
+    "public": true,
+    "outputDirectory": "public",
     "env": {
         "APP_NAME": "Laravel Vercel",
         "APP_ENV": "production",
